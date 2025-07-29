@@ -4,8 +4,7 @@
 This project highlights the development of a **360-degree Business Intelligence solution** for AtliQ, a leading electronic company in the global consumer market. The project was focused on enhancing decision-making capabilities across all operational domains by transitioning from Excel-based analytics to a robust **Power BI dashboard**.
 
 ## Project Links
-- **Live Dashboard**: [View Here](https://app.powerbi.com/links/_P6N9vMGvW?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=118f20c2-9165-4fd8-8705-03234f208067)
-  
+- **Live Dashboard**: [View Here](https://app.powerbi.com/view?r=eyJrIjoiNmZlN2VmNzktNDEyMy00NDhhLWFjNzgtZTc4MDU3NWMxMjY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem Statement
 AtliQ, after expanding globally, experienced challenges in managing complex business operations, particularly in Latin America. The company relied heavily on Excel files for analytics, leading to inefficiencies and significant business losses.
